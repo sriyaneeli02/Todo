@@ -1,0 +1,32 @@
+body{
+  background-color: antiquewhite;
+  margin: 0;
+  padding: 0;
+}
+.do{
+  background-color: black;
+  color:white;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.btn{
+  background-color: green;
+  color:white;
+  margin-left: 40%;
+  margin-top: 20px;
+  border-radius: 0.25rem;
+}
+.btns{
+  margin-top: 50px;
+margin-left: 40%;
+border-color: red;
+border-radius: 0.25rem;
+}
+.btn2{
+  border-radius: 0.25rem;
+  border-color: red;
+}
+.h{
+  text-align: center;
+}
